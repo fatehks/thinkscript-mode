@@ -19,7 +19,7 @@
 ;; To install it as your major mode for Thinkscript editing:
 
 ;; (use-package thinkscript-mode
-;;   :vc (:url "https://github.com/fatehks/thinkscript-mode/thinkscript-mode.el" :rev :newest))
+;;   :vc (:url "https://github.com/fatehks/thinkscript-mode" :rev :newest))
 
 ;;; Code:
 
